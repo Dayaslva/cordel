@@ -63,10 +63,7 @@ section {
 
 .normal {
   background-color: white;
-  background-image: url(imagens/origami-de-cisne.png);
   background-repeat: no-repeat;
-  background-attachment: local;
-  background-position: right center;
   color: black;
 }
 .normal p {
@@ -82,20 +79,20 @@ section {
   font-weight: 200;
   font-size: 25px;
   line-height: 1.5cm;
-  border-radius: 10px;
-  padding: 10px;
-  background-color: rgba(0, 0, 0, 0.63);
+  border-radius: 50px 10px 50px 10px ;
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.774);
   width: 500px;
 
 }
 .imagem {
-  background-color: rgba(0, 0, 0, 0.445);
+  background-color: rgb(0, 0, 0);
   color: white;
   background-image: url(imagens/background001.jpg); 
   background-size:  cover;
   background-position: center center;
   background-attachment: fixed;
-  box-shadow: inset 0px 6px 15px rgba(0, 0, 0, 0.589) ;
+  box-shadow: inset 0px 3px 5px rgba(0, 0, 0, 0.507);
 }
 
 #cartas {
