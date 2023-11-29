@@ -8,4 +8,4 @@ Os cordéis contam histórias diversas, muitas vezes baseadas em lendas, mitos, 
 
 O termo "cordel" refere-se à forma como os folhetos eram originalmente expostos para venda. Eles eram pendurados em cordas em feiras e mercados, daí o nome. O cordel é uma expressão rica da cultura popular brasileira, transmitindo conhecimentos, valores e tradições de geração em geração.
 
-<a href="https://dayaslva.github.io/cordel/" target="_blank">EXECUTAR SITE</a>
+<a href="https://dayaslva.github.io/cordel/" target="_blank" rel="follow">EXECUTAR SITE</a>
